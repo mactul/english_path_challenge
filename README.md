@@ -14,6 +14,12 @@ This words works great:
 
 ## Installation:
 
+### Using pre-build files
+
+You can go to the [release section](https://github.com/mactul/english_path_challenge/releases) and download the binary file `challenge.exe` for windows 64 bits.
+
+### By compiling the code yourself
+
 Download the entire content of this repository, then, you can build the file with gcc like that:
 
 On Windows:
