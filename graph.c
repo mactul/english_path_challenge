@@ -147,6 +147,7 @@ void graph_free(Graph** graph)
         free(node->neighbors);
         free(node);
     }
+    free((*graph)->node_list);
     free(*graph);
     *graph = NULL;
 }

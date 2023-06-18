@@ -14,6 +14,9 @@ This words works great:
 - benet -> quick
 - outman -> speedy
 - ottave -> french
+- graph -> leeds
+- hello -> world
+- realy -> takes
 
 ## Installation:
 
