@@ -11,6 +11,9 @@ This words works great:
 - airth -> scags
 - scalar -> footer
 - abaci -> septa
+- benet -> quick
+- outman -> speedy
+- ottave -> french
 
 ## Installation:
 
